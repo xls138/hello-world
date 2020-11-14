@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+I am stduying C Programming Language,and I am a freshman.
